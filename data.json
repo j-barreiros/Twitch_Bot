@@ -1,0 +1,24 @@
+{
+  "runningRaffle": false,
+  "raffleParticipants": [],
+  "runningPoll": true,
+  "pollOptions": [
+    "A",
+    "B"
+  ],
+  "votes": [
+    0,
+    0
+  ],
+  "pollVoters": [],
+  "contacts": {
+    "twitter": "@meninoJão",
+    "facebook": "Jon",
+    "instagram": "teste234",
+    "reddit": "teste1293",
+    "github": "teste 222",
+    "linkedin": "teste323",
+    "youtube": "teste123",
+    "steam": "teste444"
+  }
+}
